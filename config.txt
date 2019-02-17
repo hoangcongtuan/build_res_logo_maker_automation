@@ -1,0 +1,2 @@
+default_color #000000 text
+is_bound shape

@@ -1,0 +1,15 @@
+1 -> car
+2 -> spa
+3 -> corporate
+4 -> education
+5 -> artist music
+6 -> corporate
+7 -> corporate ngo
+8 -> party restaurant
+9 -> leaf ngo heart
+10 -> festival party holiday
+11 -> corporate camera
+12 -> corporate
+13 -> animal butterfly
+14 -> camera videos
+15 -> sports
