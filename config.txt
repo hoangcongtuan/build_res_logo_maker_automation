@@ -1,2 +1,2 @@
 default_color #000000 text
-is_bound shape
+is_bound shapes

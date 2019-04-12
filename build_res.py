@@ -56,7 +56,7 @@ for dir in list_dir:
             else:
                 file_path = res_folder + '/' + dir + '/' + f
                 image = cv2.imread(file_path)
-                image = cv2.resize(image,None,fx=0.2,fy=0.2)
+                # image = cv2.resize(image,None,fx=0.5,fy=0.5)
                 image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
                 image = image.reshape((image.shape[0] * image.shape[1], 3))
                 clt = KMeans(n_clusters = 3)

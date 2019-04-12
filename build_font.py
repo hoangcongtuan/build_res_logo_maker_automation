@@ -34,7 +34,7 @@ else:
     os.mkdir(font_out_path)
 
 for row in rows:
-    index = font_cate.index(row[4])
+    index = font_cate.index(row[4]) + 1
     if index == -1:
         print(f'font id = {row[0]} error')
     else:
